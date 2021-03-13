@@ -22,7 +22,7 @@ CREATE TABLE fp_bbs.post (id INT NOT NULL AUTO_INCREMENT,name VARCHAR(40),create
 
 # 登録のシステム作成
 #### 実行コード(エラー解決済み)
-https://github.com/jin237/sns_php/blob/main/index.php
+https://github.com/jin237/sns_php/blob/main/index_ver1.php
 
 ```
 <!DOCTYPE html>
