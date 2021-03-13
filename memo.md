@@ -43,7 +43,7 @@ https://github.com/jin237/sns_php/blob/main/index.php
             //coonect to DB
             $mysql = mysqli_connect('localhost', 'root', 'root', 'fp_bbs');
             if (!$mysql) {
-                exit('DB接続エラー');
+                exit('DB connect error');
             } 
 
             // connect situation check
@@ -67,7 +67,7 @@ https://github.com/jin237/sns_php/blob/main/index.php
             //select DB
             $result = mysqli_select_db($mysql, 'fp_bbs');
             if (!$result) {
-                exit('DB選択エラー');
+                exit('DB select error');
             } 
             $errors = array();
     ?>
