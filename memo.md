@@ -1,5 +1,5 @@
 # 大枠リファレンス
-[PHPでSNSを作成する]https://itport.cloud/?p=7914
+[PHPでSNSを作成する](https://itport.cloud/?p=7914)
 
 # ターミナル
 ### リファレンス
