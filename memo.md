@@ -2,7 +2,7 @@
 [PHPでSNSを作成する](https://itport.cloud/?p=7914)
 
 # ターミナル
-### リファレンス
+#### リファレンス
 [【初心者向け入門】PHPからMySQLを利用する](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)
 
 ### DBの作成
@@ -21,7 +21,7 @@ CREATE TABLE fp_bbs.post (id INT NOT NULL AUTO_INCREMENT,name VARCHAR(40),create
 ```
 
 # ちょっと実行
-実行コード
+#### 実行コード
 https://github.com/jin237/sns_php/blob/main/index.php
 
 ```
@@ -73,3 +73,43 @@ https://github.com/jin237/sns_php/blob/main/index.php
     ?>
 </html>
 ```
+
+### ここで起こったエラー解決
+
+#### リファレンス
+https://php.plus-server.net/mysqli.set-charset.html
+
+#### エラーコード
+```
+Uncaught Error: Call to undefined function mysqli_set_charset() in [directry]
+```
+
+が起こった時に、
+
+```
+mysqli_set_charset($mysql, 'utf8');
+```
+
+この変換だけのコードを、
+
+```
+// connect situation check
+if (!$mysql) {
+    printf('Connect failed: %s\n'. mysqli_connect_errno());
+    exit();
+}
+
+printf("Initial character set: %s\n", mysqli_character_set_name($mysql));
+
+// change to charset utf8
+if (!mysqli_set_charset($mysql, "utf8")) {
+    printf("Error loading character set utf8: %s\n", mysqli_error($mysql));
+    exit();
+} else {
+    printf("Current character set: %s\n", mysqli_character_set_name($mysql));
+}
+```
+にチェックと変換にすることで、表示する。
+
+
+
