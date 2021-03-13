@@ -115,6 +115,7 @@ if (!mysqli_set_charset($mysql, "utf8")) {
 #入力した名前やコメントのチェックと保存処理
 
 #### 実行コード(エラー解決済み)
+https://github.com/jin237/sns_php/blob/main/index_ver2.php
 
 ```
 <!DOCTYPE html>
