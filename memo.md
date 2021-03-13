@@ -34,9 +34,9 @@ https://github.com/jin237/sns_php/blob/main/index.php
     <body>
         <h1>BBS</h1>
         <form action="bbs.php" method="post">
-            名前:　<input type="text" name="name" /><br>
-            内容:　<input type="text" name="comment" size="60" /><br>
-            <input type="submit" name="submit" value="送信" />
+            NAME:　<input type="text" name="name" /><br>
+            COMMENT:　<input type="text" name="comment" size="60" /><br>
+            <input type="submit" name="submit" value="SEND" />
         </form>
     </body>
     <?php
