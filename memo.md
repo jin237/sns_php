@@ -33,7 +33,7 @@ https://github.com/jin237/sns_php/blob/main/index_ver1.php
     </head>
     <body>
         <h1>BBS</h1>
-        <form action="bbs.php" method="post">
+        <form action=".php" method="post">
             NAME:　<input type="text" name="name" /><br>
             COMMENT:　<input type="text" name="comment" size="60" /><br>
             <input type="submit" name="submit" value="SEND" />
