@@ -213,3 +213,14 @@ The requested URL was not found on this server.
 - l.72 Pname -> name
 - l.09 bbs.php -> index.php (解決)
 
+
+# 各処理の分割
+
+#### 実行コード(エラー解決済み)
+https://github.com/jin237/sns_php/blob/main/index_ver3.php
+2つに分割
+
+### 疑問html
+htmlだけなら、phpファイルじゃなくてよいのでは？
+エラー表示とかをする時の動的処理のためにはphpファイルで置いておくほうがいい。
+
