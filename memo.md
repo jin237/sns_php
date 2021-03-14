@@ -189,7 +189,7 @@ https://github.com/jin237/sns_php/blob/main/index_ver2.php
             // save if there are no errors
             if (count($errors) === 0) {
                 // create SQL minutes to save
-                $sql ='INSERT INTO post(Pname, comment, created_day)VALUES("'
+                $sql ='INSERT INTO post(name, comment, created_day)VALUES("'
                     .mysqli_real_escape_string($mysql, $name).'" ,"'
                     .mysqli_real_escape_string($mysql, $comment).'",\''
                     .date('Y-m-d H:i:s').'\')';
@@ -208,4 +208,8 @@ Not Found
 The requested URL was not found on this server.
 ```
 となるので、解決が必要。
+
+#### 試行錯誤 
+- l.72 Pname -> name
+- l.09 bbs.php -> index.php (解決)
 
