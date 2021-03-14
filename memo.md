@@ -224,3 +224,9 @@ https://github.com/jin237/sns_php/blob/main/index_ver3.php
 htmlだけなら、phpファイルじゃなくてよいのでは？
 エラー表示とかをする時の動的処理のためにはphpファイルで置いておくほうがいい。
 
+#### エラー
+count()が通らない。
+#### リファレンス
+https://qiita.com/masaki-ogawa/items/1671d110b2286ececd09
+count()ではなく、isset()または、!empty()
+
