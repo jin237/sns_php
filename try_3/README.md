@@ -1,6 +1,6 @@
-# PHP INTRODUCTION
+# PHP 入門
 
-# References
+# 参考資料・動画
 - [【PHP初級】Playlist(YouTube links)](https://www.youtube.com/playlist?list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C)
   - [x] [【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01](https://www.youtube.com/watch?v=uCvPMe5wsNk&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=2)
   - [ ] [【PHP初級】ユーザ登録機能作成とバリデーション \~ログイン機能をつくろう！~ #02](https://www.youtube.com/watch?v=Ud_Inw3O_D4&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=2)
