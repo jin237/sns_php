@@ -13,7 +13,7 @@
 
 # 【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01
 Lesson1 folder
-=> 
+=>　https://github.com/jin237/sns_php/tree/main/try_3/lesson1
 #### Questions
 
 
