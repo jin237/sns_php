@@ -24,7 +24,7 @@ function connect()
         echo 'Connect Succeess!';
     } catch(PDOExeption $e) {
         // 失敗したら表示
-        echo 'Connect Failued.'. $e->getMessage();
+        echo 'Connect Failured.'. $e->getMessage();
         exit();
     }
 
