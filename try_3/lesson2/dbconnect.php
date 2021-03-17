@@ -1,5 +1,6 @@
 <?php
 require_once './env.php';
+
 // エラー内容の表示（なくてもタイプミスなら、出力される）
 ini_set('display_errors', true);
 
