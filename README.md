@@ -7,14 +7,12 @@
 <br>
 
 ## try_1
-<br>
-【初心者向け入門】PHPからMySQLを利用する](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)を見本として、PHPの概要・枠の理解をする。
+[「【初心者向け入門】PHPからMySQLを利用する」](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)を見本として、PHPの概要・枠の理解をする。
 結構、問題や雑な部分が多いので注意。
 <br>
 
 ## try_2
-<br>
-[Vue + Vue Router + Vuex + Laravelで写真共有アプリを作ろう](https://www.hypertextcandy.com/vue-laravel-tutorial-introduction)を実装してみる。
+[「Vue + Vue Router + Vuex + Laravelで写真共有アプリを作ろう」](https://www.hypertextcandy.com/vue-laravel-tutorial-introduction)を実装してみる。
 先に、[try_3](https://github.com/jin237/sns_php/tree/main/try_3)を行うと、PHPの入門ができてその上で、Docker、Linuxの学習が必要となるので、最後。
 
 ##### 機能一覧
@@ -33,7 +31,7 @@
 ## try_3
 <br>
 
-[【PHP初級】Playlist(YouTube links)](https://www.youtube.com/playlist?list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C)を実装してみて、ログイン昨日の作成を行う。
+[「【PHP初級】Playlist(YouTube links)」](https://www.youtube.com/playlist?list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C)を実装してみて、ログイン昨日の作成を行う。
  全部で8回で簡潔。入力フォームの作成、入力判定処理、ログアウト管理まで行う。
  
 - [【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01](https://www.youtube.com/watch?v=uCvPMe5wsNk&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=2)
