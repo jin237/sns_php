@@ -8,7 +8,7 @@
 
 ## try_1
 <br>
-[【初心者向け入門】PHPからMySQLを利用する](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)を見本として、PHPの概要・枠の理解をする。
+【初心者向け入門】PHPからMySQLを利用する](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)を見本として、PHPの概要・枠の理解をする。
 結構、問題や雑な部分が多いので注意。
 <br>
 
