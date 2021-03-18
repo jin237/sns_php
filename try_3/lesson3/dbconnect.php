@@ -1,6 +1,5 @@
 <?php
-require_once './env.php';
-
+require_once 'env.php';
 // エラー内容の表示（なくてもタイプミスなら、出力される）
 ini_set('display_errors', true);
 
@@ -22,14 +21,11 @@ function connect()
             PDO::ATTR_DEFAULT_FETCH_MODE =>PDO::FETCH_ASSOC
         ]);
         // 成功したら表示
-        echo 'Connect Succeess!';
+        // echo 'Connect Succeess!';
+        return $pdo;
     } catch(PDOExeption $e) {
         // 失敗したら表示
         echo 'Connect Failued.'. $e->getMessage();
         exit();
     }
-
-
 }
-
-echo connect();

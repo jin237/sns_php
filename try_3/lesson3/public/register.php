@@ -1,5 +1,7 @@
 <?php
 
+require_once '../classes/UserLogic.php';
+
 // error message
 $err = [];
 
@@ -27,6 +29,11 @@ if ($password !== $password_conf) {
 
 if (count($err) === 0) {
     // regist user 
+    $hasCreated = UserLogic::createUser($_POST);
+
+    if(!$hasCreated) {
+        $err[] = 'You failured regist';
+    }
 }
 
 
