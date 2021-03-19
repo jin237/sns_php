@@ -17,7 +17,7 @@ Lesson1 folder
 #### Questions
 
 
-##### 1. エラー表示コードがなくても出てくる
+##### 1. エラー表示コードがなくても出てくる (lesson1)
 
 ```php
 // エラー内容の表示
@@ -25,7 +25,7 @@ ini_set('display_errors', true);
 ```
 このコードを入れなくても出てくる
 
-##### 2. MySQLでのデータベース作成時に出てくるエラーを消したい
+##### 2. MySQLでのデータベース作成時に出てくるエラーを消したい (lesson1)
 
 ```terminal
 Deprecation Notice in ./libraries/classes/Di/ReflectorItem.php#82
@@ -50,4 +50,9 @@ array,
 )
 ```
 
-##### 3. 
+##### 3. どうしても登録失敗になってしまっている (エラーメッセージも出てこない) (lesson3)
+lesson3のソースコード　=> https://github.com/jin237/sns_php/tree/main/try_3
+
+参考になりそうな動画 ： [【PHP・MySQL入門】プログラミング中にエラーが出た時の対処法！<tr>https://www.youtube.com/watch?v=x34nLDOEIBc](https://www.youtube.com/watch?v=x34nLDOEIBc)
+  
+この動画のようにやってもエラー表示すらすることができない
