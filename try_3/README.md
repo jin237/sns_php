@@ -11,12 +11,13 @@
   - [ ] [【PHP初級】マイページ画面・ログインチェック機能の実装 \~ログイン機能をつくろう！~ #07](https://www.youtube.com/watch?v=YDuuT850dYU&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=7)
   - [ ] [【PHP初級】ログアウト機能の実装！ \~ログイン機能完成~ #08](https://www.youtube.com/watch?v=k8QcB9LqeWQ&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=8)
 
-# 【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01
+### 【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01
 Lesson1 folder
 =>　https://github.com/jin237/sns_php/tree/main/try_3/lesson1
-#### Questions
 
 
+
+## Issue & Question
 ##### 1. エラー表示コードがなくても出てくる (lesson1)
 
 ```php
