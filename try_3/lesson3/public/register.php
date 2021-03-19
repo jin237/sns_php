@@ -32,7 +32,7 @@ if (count($err) === 0) {
     $hasCreated = UserLogic::createUser($_POST);
 
     if(!$hasCreated) {
-        $err[] = 'You failured regist';
+        $err[] = 'You failured regist.';
     }
 }
 

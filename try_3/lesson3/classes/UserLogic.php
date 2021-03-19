@@ -1,6 +1,6 @@
 <?php
-require_once '../dbconnect.php';
 
+require_once '../dbconnect.php';
 
 class UserLogic
 {
@@ -13,20 +13,21 @@ class UserLogic
     {
         $result = false;
 
-        $sql = 'INSERT INOT users (name, email, password) VALUES (?, ?, ?)';
+        $sql = 'INSERT INTO users (name, email, password) VALUES (?, ?, ?)';
         return $result;
 
         // enter the user data to array
-        $arr =[];
+        $arr = [];
         $arr[] = $userData['username'];
         $arr[] = $userData['email'];
+        // hash for password
         $arr[] = password_hash($userData['password'], PASSWORD_DEFAULT);
 
         try {
             $stmt = connect()->prepare($sql);
             $result = $stmt->execute($arr);
             return $result;
-        } catch(\Exception $e) {
+        } catch (\Exception $e) {
             return $result;
         }
     }
