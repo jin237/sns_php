@@ -5,7 +5,7 @@
   - [x] [【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01](https://www.youtube.com/watch?v=uCvPMe5wsNk&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=2)
   - [x] [【PHP初級】ユーザ登録機能作成とバリデーション \~ログイン機能をつくろう！~ #02](https://www.youtube.com/watch?v=Ud_Inw3O_D4&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=2)
   - [x] [【PHP初級】ユーザ登録機能作成とPHPDoc \~ログイン機能をつくろう！~ #03](https://www.youtube.com/watch?v=cf4appMVoFM&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=3)
-  - [ ] [【PHP初級】ログイン機能作成①セッションとキャッシュ \~ログイン機能をつくろう！~ #04](https://www.youtube.com/watch?v=k8N3Vj561Do&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=4)
+  - [x] [【PHP初級】ログイン機能作成①セッションとキャッシュ \~ログイン機能をつくろう！~ #04](https://www.youtube.com/watch?v=k8N3Vj561Do&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=4)
   - [ ] [【PHP初級】ログイン機能完成とセッションハイジャック対策 \~ログイン機能をつくろう！~ #05](https://www.youtube.com/watch?v=dqBXX_vH19s&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=5)
   - [ ] [【PHP初級】最低限のセキュリティ対策をしよう！ \~ログイン機能をつくろう！~ #06](https://www.youtube.com/watch?v=L-Eo2AEm3VE&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=6)
   - [ ] [【PHP初級】マイページ画面・ログインチェック機能の実装 \~ログイン機能をつくろう！~ #07](https://www.youtube.com/watch?v=YDuuT850dYU&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=7)
