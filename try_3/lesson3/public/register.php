@@ -1,6 +1,6 @@
 <?php
 
-require_once '../classes/UserLogic.php';
+require_once('../classes/UserLogic.php');
 
 // error message
 $err = [];

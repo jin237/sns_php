@@ -1,6 +1,6 @@
 <?php
 
-require_once '../dbconnect.php';
+require_once('../dbconnect.php');
 
 class UserLogic
 {
@@ -14,7 +14,7 @@ class UserLogic
         $result = false;
 
         $sql = 'INSERT INTO users (name, email, password) VALUES (?, ?, ?)';
-        return $result;
+        // return $result;
 
         // enter the user data to array
         $arr = [];
@@ -28,6 +28,11 @@ class UserLogic
             $result = $stmt->execute($arr);
             return $result;
         } catch (\Exception $e) {
+            // output errors
+            echo $e;
+            // output error log
+            error_log($e, 3, '../error.log');
+            
             return $result;
         }
     }

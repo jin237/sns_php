@@ -23,7 +23,7 @@ function connect()
         // 成功したら表示
         // echo 'Connect Succeess!';
         return $pdo;
-    } catch(PDOExeption $e) {
+    } catch(PDOException $e) {
         // 失敗したら表示
         echo 'Connect Failued.'. $e->getMessage();
         exit();
