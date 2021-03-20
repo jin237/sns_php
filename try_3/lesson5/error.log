@@ -1,0 +1,26 @@
+PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(77): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(50): UserLogic::getUserByEmail('fgdaojebvoa237@...')
+#2 /Applications/MAMP/htdocs/lesson5/public/top.php(26): UserLogic::login('fgdaojebvoa237@...', 'm1n2b3v4')
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(77): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(50): UserLogic::getUserByEmail('fgdaojebvoa237@...')
+#2 /Applications/MAMP/htdocs/lesson5/public/top.php(26): UserLogic::login('fgdaojebvoa237@...', 'm1n2b3v4')
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(77): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(50): UserLogic::getUserByEmail('fgdaojebvoa237@...')
+#2 /Applications/MAMP/htdocs/lesson5/public/top.php(26): UserLogic::login('fgdaojebvoa237@...', 'm1n2b3v4')
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(77): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(50): UserLogic::getUserByEmail('fgdaojebvoa237@...')
+#2 /Applications/MAMP/htdocs/lesson5/public/top.php(26): UserLogic::login('fgdaojebvoa237@...', 'm1n2b3v4')
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php:77
+Stack trace:
+#0 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(77): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/lesson5/classes/UserLogic.php(50): UserLogic::getUserByEmail('fgdaojebvoa237@...')
+#2 /Applications/MAMP/htdocs/lesson5/public/top.php(26): UserLogic::login('fgdaojebvoa237@...', 'm1n2b3v4')
+#3 {main}
