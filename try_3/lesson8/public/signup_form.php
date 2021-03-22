@@ -48,5 +48,6 @@ unset($_SESSION['login_err']);
         <input type="submit" value="NEW REGISTRAION">
     </p>
     </form>
+    <a href="login_form.php">Login</a>
 </body>
 </html>

@@ -3,7 +3,7 @@ session_start();
 
 require_once '../classes/UserLogic.php';
 
-$reslut = UserLogic::checkLogin();
+$result = UserLogic::checkLogin();
 if($result) {
     header ('Location: mypage.php');
     return;

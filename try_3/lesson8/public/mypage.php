@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once '../classes/UserLogic.php' ;
-require_once'../functions.php';
+require_once '../functions.php';
 
 //ログインしているか判定し、していなかったら新規登録画面へ返す
 $result = UserLogic::checkLogin();
@@ -27,7 +27,12 @@ $login_user = $_SESSION['login_user']
     <h2>My pgae</h2>
     <p>Login User: <?php echo h($login_user['name']) ?></p>
     <p>Mail address: <?php echo h($login_user['email']) ?></p>
-    <a href="./login.php">Logout</a>
+    <form action="logout.php" method="POST">
+        <input type="submit" name="logout" value="logout">
+    </form>
+    <!-- 1. create logout screen -->
+    <!-- 2. create logout method -->
+    
 </body>
 </html>
 
