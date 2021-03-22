@@ -9,7 +9,7 @@
   - [x] [【PHP初級】ログイン機能完成とセッションハイジャック対策 \~ログイン機能をつくろう！~ #05](https://www.youtube.com/watch?v=dqBXX_vH19s&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=5)
   - [x] [【PHP初級】最低限のセキュリティ対策をしよう！ \~ログイン機能をつくろう！~ #06](https://www.youtube.com/watch?v=L-Eo2AEm3VE&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=6)
   - [x] [【PHP初級】マイページ画面・ログインチェック機能の実装 \~ログイン機能をつくろう！~ #07](https://www.youtube.com/watch?v=YDuuT850dYU&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=7)
-  - [ ] [【PHP初級】ログアウト機能の実装！ \~ログイン機能完成~ #08](https://www.youtube.com/watch?v=k8QcB9LqeWQ&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=8)
+  - [x] [【PHP初級】ログアウト機能の実装！ \~ログイン機能完成~ #08](https://www.youtube.com/watch?v=k8QcB9LqeWQ&list=PLCyDm9NTxdhKocC4K-CmdXVGEM-9a8U6C&index=8)
 
 ### 【PHP初級】ログイン機能作成手順とユーザテーブル作成 \~ログイン機能をつくろう！~ #01
 Lesson1 folder
