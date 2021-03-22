@@ -1,9 +1,9 @@
 # PHPの勉強のための記録リポジトリ
 このリポジトリでは、PHP（MAMP,MySQLを含む）の学習を行った記録をする。
 <br>
-- [try_1](https://github.com/jin237/sns_php/tree/main/try_1)　=>　https://github.com/jin237/sns_php/tree/main/try_1
-- [try_2](https://github.com/jin237/sns_php/tree/main/try_2)　=>　https://github.com/jin237/sns_php/tree/main/try_2
-- [try_3](https://github.com/jin237/sns_php/tree/main/try_3)　=>　https://github.com/jin237/sns_php/tree/main/try_3
+- [x] [try_1](https://github.com/jin237/sns_php/tree/main/try_1)　=>　https://github.com/jin237/sns_php/tree/main/try_1
+- [ ] [try_2](https://github.com/jin237/sns_php/tree/main/try_2)　=>　https://github.com/jin237/sns_php/tree/main/try_2
+- [x] [try_3](https://github.com/jin237/sns_php/tree/main/try_3)　=>　https://github.com/jin237/sns_php/tree/main/try_3
 <br>
 
 ## try_1
