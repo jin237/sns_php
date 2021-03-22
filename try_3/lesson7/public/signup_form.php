@@ -1,5 +1,17 @@
 <?php
-require_once '../functions.php'
+session_start();
+
+require_once '../functions.php';
+require_once '../classes/UserLogic.php';
+
+$result = UserLogic::checkLogin();
+if ($result) {
+    header ('Location: mypage.php');
+    return;
+}
+
+$login_err = isset($_SESSION['login_err']) ? $_SESSION['login_err'] : null;
+unset($_SESSION['login_err']);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,6 +23,9 @@ require_once '../functions.php'
 </head>
 <body>
     <h2>USER REGIST FORM</h2>
+    <?php if (isset($err['login_err'])) : ?>
+        <p><?php echo $err['login_err']; ?></p>
+    <?php endif; ?>
     <form action="register.php" method="POST">
     <p>
         <label for="username"> Please enter "User name":</label>
