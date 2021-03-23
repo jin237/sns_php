@@ -58,3 +58,15 @@ WORKDIR /var/www/html/vuesplash
 4. Shift + q で抜け出し
 5. `$ exit`
 
+
+## Laravelプロジェクトの作成
+```
+composer create-project --prefer-dist laravel/laravel .
+↓
+composer create-project --prefer-dist "laravel/laravel=6.*" .
+```
+に変更。（バージョンに依存）
+
+
+
+
