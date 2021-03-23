@@ -67,6 +67,17 @@ composer create-project --prefer-dist "laravel/laravel=6.*" .
 ```
 に変更。（バージョンに依存）
 
+## Webpackとは
+
+[webpackとは？使い方と導入するメリットをわかりやすく解説](https://goworkship.com/magazine/how-to-webpack/)
+
+
+>webpackは、モジュールを束ねるツールです。
+>
+>モジュールとは、プログラム内のJavaScriptファイル（以下：jsファイル）やsassファイルなどのことです。webpackを使うことで、複数のjsファイルをひとつのjsファイルにまとめたり、複数のsassファイルをひとつのsassファイルにしたりできます。
+>
+>バンドル（bundle）は”束にする”という意味です。上の画像に「bundle  your style」とありますが、文字どおりwebpackはモジュールを”束にする”役割を担います。
+
 
 
 
