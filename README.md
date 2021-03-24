@@ -4,7 +4,8 @@
 - [x] [try_1](https://github.com/jin237/sns_php/tree/main/try_1)　=>　https://github.com/jin237/sns_php/tree/main/try_1
 - [ ] [try_2](https://github.com/jin237/sns_php/tree/main/try_2)　=>　https://github.com/jin237/sns_php/tree/main/try_2
 
-      作業リポジトリ：　[try_2(Vue+Vue Router+Vuex+Laravelで写真共有アプリを作ろう)](https://github.com/jin237/try_2/tree/main/vuesplash)
+(作業リポジトリ：　[try_2(Vue+Vue Router+Vuex+Laravelで写真共有アプリを作ろう)](https://github.com/jin237/try_2/tree/main/vuesplash))
+
 - [x] [try_3](https://github.com/jin237/sns_php/tree/main/try_3)　=>　https://github.com/jin237/sns_php/tree/main/try_3
 <br>
 
