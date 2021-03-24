@@ -1,4 +1,4 @@
-# PHPの勉強のための記録リポジトリ
+# SNS作成のための学習記録リポジトリ
 このリポジトリでは、PHP（MAMP,MySQLを含む）の学習を行った記録をする。
 <br>
 - [x] [try_1](https://github.com/jin237/sns_php/tree/main/try_1)　=>　https://github.com/jin237/sns_php/tree/main/try_1
