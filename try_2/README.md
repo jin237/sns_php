@@ -1,4 +1,6 @@
 # Vue + Vue Router + Vuex + Laravelで写真共有アプリを作ろう
+### 作業リポジトリ：　[try_2(Vue+Vue Router+Vuex+Laravelで写真共有アプリを作ろう)](https://github.com/jin237/try_2/tree/main/vuesplash)
+
 - [x] [01. イントロダクション](https://www.hypertextcandy.com/vue-laravel-tutorial-introduction/)
 - [x] [02. アプリケーションの設計](https://www.hypertextcandy.com/vue-laravel-tutorial-application-design/)
 - [ ] [03. SPA開発環境とVue Router](https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project/)
