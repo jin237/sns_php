@@ -81,5 +81,12 @@ composer create-project --prefer-dist "laravel/laravel=6.*" .
 >バンドル（bundle）は”束にする”という意味です。上の画像に「bundle  your style」とありますが、文字どおりwebpackはモジュールを”束にする”役割を担います。
 
 
+## docker上で実行する時のコマンド
+```
+npm run watch
+php artisan serve --host 0.0.0.0 --port 8081
+```
+これらを別のターミナルで同時にたてる必要がある。
+
 
 
