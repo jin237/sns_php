@@ -4,7 +4,7 @@
 - [x] [01. イントロダクション](https://www.hypertextcandy.com/vue-laravel-tutorial-introduction/)
 - [x] [02. アプリケーションの設計](https://www.hypertextcandy.com/vue-laravel-tutorial-application-design/)
 - [x] [03. SPA開発環境とVue Router](https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project/)
-- [ ] [04. 認証API](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication/)
+- [x] [04. 認証API](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication/)
 - [ ] [05. 認証ページ](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-2/)
 - [ ] [06. 認証機能とVuex](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-3/)
 - [ ] [07. 認証機能とVuex Part.2](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-4/)
