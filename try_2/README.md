@@ -5,7 +5,7 @@
 - [x] [02. アプリケーションの設計](https://www.hypertextcandy.com/vue-laravel-tutorial-application-design/)
 - [x] [03. SPA開発環境とVue Router](https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project/)
 - [x] [04. 認証API](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication/)
-- [ ] [05. 認証ページ](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-2/)
+- [x] [05. 認証ページ](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-2/)
 - [ ] [06. 認証機能とVuex](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-3/)
 - [ ] [07. 認証機能とVuex Part.2](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-4/)
 - [ ] [08. エラーハンドリング](https://www.hypertextcandy.com/vue-laravel-tutorial-error-handling/)
@@ -88,5 +88,7 @@ php artisan serve --host 0.0.0.0 --port 8081
 ```
 これらを別のターミナルで同時にたてる必要がある。
 
+## Vuexとは
+Vue のために開発された状態管理ライブラリ。状態管理というと難しく聞こえますが、簡単にいうと「コンポーネントをまたいで参照したいデータを入れておく場所」。
 
 
