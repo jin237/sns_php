@@ -31,6 +31,26 @@
 - ログアウトする（会員のみ）
 
 
+# Issues
+### 1. APIのコールかゲッターがうまくいかない
+https://github.com/jin237/sns_php/issues/5
+
+[try_2](https://github.com/jin237/try_2/tree/main/vuesplash)のファイルのテストランがうまくいかない。
+
+```terminal
+./vendor/bin/phpunit --testdox
+```
+
+また、普通にdocker上でのサーバーを立てても白画面で何も出てこない。
+
+参考記事は、
+
+https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-4/
+
+
+
+
+
 
 # Memo
 ## Dockerfileの作成(terminal)
