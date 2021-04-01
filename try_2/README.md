@@ -8,7 +8,7 @@
 - [x] [05. 認証ページ](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-2/)
 - [x] [06. 認証機能とVuex](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-3/)
 - [x] [07. 認証機能とVuex Part.2](https://www.hypertextcandy.com/vue-laravel-tutorial-authentication-part-4/)
-- [ ] [08. エラーハンドリング](https://www.hypertextcandy.com/vue-laravel-tutorial-error-handling/)
+- [x] [08. エラーハンドリング](https://www.hypertextcandy.com/vue-laravel-tutorial-error-handling/)
 - [ ] [09. 写真投稿API](https://www.hypertextcandy.com/vue-laravel-tutorial-submit-photo/)
 - [ ] [10. 写真投稿フォーム](https://www.hypertextcandy.com/vue-laravel-tutorial-submit-photo-part-2/)
 - [ ] [11. 写真一覧取得API](https://www.hypertextcandy.com/vue-laravel-tutorial-list-photos/)
