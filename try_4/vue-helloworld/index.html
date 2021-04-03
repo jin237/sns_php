@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Hello Worldを表示するプログラム</title>
+    </head>
+    <body>
+        <!--- TODO: "Hello World" を表示する --->
+        <div id="app">{{ message }}</div>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script>
+            const app = new Vue({
+                el: '#app',
+                data: {
+                    message: 'Hello World'
+                }
+            })
+        </script>
+    </body>
+</html>
+
