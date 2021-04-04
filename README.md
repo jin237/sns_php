@@ -7,7 +7,15 @@
 (作業リポジトリ：　[try_2(Vue+Vue Router+Vuex+Laravelで写真共有アプリを作ろう)](https://github.com/jin237/try_2/tree/main/vuesplash))
 
 - [x] [try_3](https://github.com/jin237/sns_php/tree/main/try_3)　=>　https://github.com/jin237/sns_php/tree/main/try_3
+- [ ] [try_4](https://github.com/jin237/sns_php/tree/main/try_4)　=>　https://github.com/jin237/sns_php/tree/main/try_4
 <br>
+
+## Docker環境構築リポジトリ
+[docker_try (My GitHub Repository)](https://github.com/jin237/docker_try)にて、Dockerの操作・コマンドのまとめを行った
+
+## Laravel環境構築（Docker上）
+[「【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン」](https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4) writing by [@ucan-lab on Qiita](https://qiita.com/ucan-lab)
+
 
 ## try_1
 [「【初心者向け入門】PHPからMySQLを利用する」](https://qiita.com/ab-boy_ringo/items/8274c66b6692966fdc55)を見本として、PHPの概要・枠の理解をする。
