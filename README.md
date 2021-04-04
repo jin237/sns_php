@@ -10,11 +10,17 @@
 - [ ] [try_4](https://github.com/jin237/sns_php/tree/main/try_4)　=>　https://github.com/jin237/sns_php/tree/main/try_4
 <br>
 
-## Docker環境構築リポジトリ
-[docker_try (My GitHub Repository)](https://github.com/jin237/docker_try)にて、Dockerの操作・コマンドのまとめを行った
+## 参考及び関連記事
+### Docker, Laravel関連
+- Docker環境構築リポジトリ -> [docker_try (My GitHub Repository)](https://github.com/jin237/docker_try)にて、Dockerの操作・コマンドのまとめを行った
+- Laravel環境構築（Docker上） -> [「【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン」](https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4) writing by [@ucan-lab](https://qiita.com/ucan-lab)
+- Laravel + Nginx + MySQLのDocker開発環境 -> [Laravel + Nginx + MySQLのDocker開発環境を共有します](https://www.suzu6.net/posts/254-laravel-docker-compose/)
 
-## Laravel環境構築（Docker上）
-[「【超入門】20分でLaravel開発環境を爆速構築するDockerハンズオン」](https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4) writing by [@ucan-lab on Qiita](https://qiita.com/ucan-lab)
+### Sea-Whaleへの活用
+#### twitterに似たタイムラインの作成の記事
+- [A Twitter clone built with Vue.js](https://vuejsexamples.com/a-twitter-clone-built-with-vue-js/)
+- [TwitterのタイムラインをVueで作ったWebページに埋め込むメモ](https://www.nogawanogawa.work/entry/twitter_embed)
+- [Laravel(+Vue.js)でSNS風Webサービスを作ろう！(要課金 ¥2,980）](https://www.techpit.jp/courses/11)
 
 
 ## try_1
